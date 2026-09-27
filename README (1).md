@@ -1,12 +1,11 @@
-# INFO-B 473/B573 Assignment 2
+# INFO-B B473 Assignment 2
 
 ## Programmer
 
-**Christian Encarnado**
+**Abdul Djama**
 
 - **Language:** Python
 - **Version:** 1.0
-- **Submitted:** September 29, 2026
 
 ## About This Program
 
