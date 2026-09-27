@@ -17,7 +17,7 @@ The counts are stored in a nested dictionary and then converted into lists so th
 
 ## Files
 
-- `assignment2.py` — Main Python file for the assignment
+- `Infob473 assignment2.py` — Main Python file for the assignment
 - `chr1_GL383518v1_alt.fa` — FASTA file containing the DNA sequence
 
 ## Requirements
