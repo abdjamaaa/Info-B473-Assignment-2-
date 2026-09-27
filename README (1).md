@@ -23,7 +23,7 @@ The counts are stored in a nested dictionary and then converted into lists so th
 ## Requirements
 
 - Python 3.10 or newer
-- `assignment2.py` and `chr1_GL383518v1_alt.fa` should be in the same folder
+- `Infob473 assignment2.py` and `chr1_GL383518v1_alt.fa` should be in the same folder
 
 ## Running the Program
 
